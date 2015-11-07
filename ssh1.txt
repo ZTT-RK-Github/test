@@ -1,0 +1,5 @@
+#
+#
+# howto connet with ssh to host
+#
+ssh -X <name>@<host>
